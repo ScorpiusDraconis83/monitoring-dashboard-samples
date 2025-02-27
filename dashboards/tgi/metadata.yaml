@@ -1,0 +1,10 @@
+sample_dashboards:
+  -
+    category: TGI
+    id: tgi-prometheus
+    display_name: TGI Prometheus Overview
+    description: |-
+      This dashboard has charts displaying throughput, latency, batching behavior, errors, and other metrics for inference. 
+    related_integrations:
+      - id: tgi
+        platform: GKE
