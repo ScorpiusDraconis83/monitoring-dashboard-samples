@@ -1,0 +1,5 @@
+id: vllm
+short_name: vLLM
+display_name: vLLM
+description: |
+  vLLM is a fast, easy-to-use, and open source library for LLM inference and serving. This integration collects metrics for throughput, latency, cache usage and errors.
